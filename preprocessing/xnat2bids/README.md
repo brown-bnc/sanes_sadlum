@@ -4,7 +4,7 @@ Import data from XNAT and convert it to BIDS format.
 
 We use the BNC-maintained Singularity container in Oscar of [`xnat-tool`](https://github.com/brown-bnc/xnat-tools). To learn more, see the [docs](https://docs.ccv.brown.edu/bnc-user-manual/export-xnat-to-bids-format/getting-started)
 
-## `xnat2bids.sh`
+* `run_xnat2bids.sh`
 
 Main batch script. 
 To chage/specify participant you need to modify the line including
